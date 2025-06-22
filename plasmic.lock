@@ -1,0 +1,75 @@
+{
+  "projects": [
+    {
+      "projectId": "gmeH6XgPaBtkt51HunAo4g",
+      "version": "18.19.1",
+      "dependencies": {},
+      "lang": "js",
+      "fileLocks": [
+        {
+          "assetId": "gmeH6XgPaBtkt51HunAo4g",
+          "type": "projectCss",
+          "checksum": "1c02168c6b23256606111fdfdbb63549"
+        }
+      ],
+      "codegenVersion": "0.0.1"
+    },
+    {
+      "projectId": "5u4GLG4Ya6o5Z7moscjdnp",
+      "version": "latest",
+      "dependencies": {
+        "gmeH6XgPaBtkt51HunAo4g": "18.19.1"
+      },
+      "lang": "js",
+      "fileLocks": [
+        {
+          "type": "globalVariant",
+          "assetId": "PvzCdbpItF0J",
+          "checksum": "29c46b4329cd9c9207c263e78a6d1eb2"
+        },
+        {
+          "assetId": "5u4GLG4Ya6o5Z7moscjdnp",
+          "type": "projectCss",
+          "checksum": "c69070c05e3b04770313f40f1d921951"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "GP7njrgPP_Ol",
+          "checksum": "79747a7d8dcc2d1fcabdea3368d0072c"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "GP7njrgPP_Ol",
+          "checksum": "79747a7d8dcc2d1fcabdea3368d0072c"
+        },
+        {
+          "type": "renderModule",
+          "assetId": "llUvdzytHX5o",
+          "checksum": "fd562f6c261ff5abb52229884c72b0fa"
+        },
+        {
+          "type": "cssRules",
+          "assetId": "llUvdzytHX5o",
+          "checksum": "fd562f6c261ff5abb52229884c72b0fa"
+        },
+        {
+          "type": "icon",
+          "assetId": "df0dgBqrPxAT",
+          "checksum": "13c37eaf11333e047df7f5509dff2466"
+        },
+        {
+          "type": "icon",
+          "assetId": "3FGtX1sTH2Bf",
+          "checksum": "069888417f554f6adb8f1e2877ee261c"
+        },
+        {
+          "type": "image",
+          "assetId": "mTsYaxNinUmh",
+          "checksum": "7db22452cdc553c6d0cdb42a4e193565"
+        }
+      ],
+      "codegenVersion": "0.0.1"
+    }
+  ],
+  "cliVersion": "0.1.338"
+}
